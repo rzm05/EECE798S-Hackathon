@@ -1,0 +1,15 @@
+# Core
+transformers>=4.41,<5
+accelerate>=0.33
+safetensors>=0.4
+
+# App
+gradio>=4.36,<5
+pypdf>=4.2
+networkx>=3.2
+matplotlib>=3.8
+pillow>=10.3
+knowledge-graph-maker
+
+# Tokenizer
+tokenizers>=0.19
