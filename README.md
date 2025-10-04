@@ -1,4 +1,5 @@
 # Legal Knowledge Graph Extractor (LLM-only, Ontology-Aligned)
+# Please note that the notebook should be downloaded to be accessesed and tested (even if showing invalid)
 
 ## Team
 
